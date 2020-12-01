@@ -1,2 +1,2 @@
 # task-list
-Simple task list app built with JavaScript and Materialize CSS
+Simple task list app built with JavaScript
